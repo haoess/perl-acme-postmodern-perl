@@ -1,4 +1,4 @@
-package Acme::Postmodern::Perl;
+package Acme::Postmodern::Perl 0.02;
 
 use warnings;
 use strict;
@@ -9,17 +9,13 @@ Acme::Postmodern::Perl - Postmodern Perl solves all problems
 
 =head1 VERSION
 
-Version 0.01
-
-=cut
-
-our $VERSION = '0.01';
+Version 0.02
 
 =head1 SYNOPSIS
 
     use Acme::Postmodern::Perl;
 
-This module requires the next perl version.
+This module requires the next upcoming stable perl version.
 
 =cut
 

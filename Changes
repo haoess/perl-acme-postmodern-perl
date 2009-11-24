@@ -1,5 +1,8 @@
 Revision history for Acme-Postmodern-Perl
 
+0.02    2009-11-24
+        Switch to PACKAGE NAME VERSION syntax.
+
 0.01    2009-10-16
         First version.
 
