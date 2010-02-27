@@ -1,5 +1,8 @@
 Revision history for Acme-Postmodern-Perl
 
+0.04    2010-02-27
+        use 5.012 in Makefile.PL, we want no PASSes from CPAN testers
+
 0.03    2009-11-25
         Check for 5.012 in test suite.
 
