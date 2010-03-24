@@ -1,4 +1,4 @@
-package Acme::Postmodern::Perl 0.04;
+package Acme::Postmodern::Perl 0.05;
 
 use warnings;
 use strict;
@@ -9,7 +9,7 @@ Acme::Postmodern::Perl - Postmodern Perl solves all problems
 
 =head1 VERSION
 
-Version 0.04
+Version 0.05
 
 =head1 SYNOPSIS
 
@@ -17,9 +17,16 @@ Version 0.04
 
 This module requires the next upcoming stable perl version.
 
+=head1 HOW TO INSTALL (or: how to give it a try, at least)
+
+L<CPAN>.pm and its friends (like L<App::cpanminus>) don't play nicely with the
+C<package NAMESPACE VERSION> syntax (which was introduced in perl5 v12). So if
+you want to get the latest version of this distribution, you have to download it
+directly from your nearby CPAN mirror.
+
 =cut
 
-use 5.012;
+use 5.014;
 
 -1;
 __END__
@@ -68,7 +75,7 @@ L<Acme::Very::Modern::Perl>.
 
 =head1 COPYRIGHT & LICENSE
 
-Copyright 2009 Frank Wiegand.
+Copyright 2009, 2010 Frank Wiegand.
 
 This program is free software; you can redistribute it and/or modify it
 under the terms of either: the GNU General Public License as published
