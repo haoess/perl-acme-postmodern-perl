@@ -1,5 +1,8 @@
 Revision history for Acme-Postmodern-Perl
 
+0.06    2011-04-28
+        * require 5.016
+
 0.05    2010-03-24
         * require 5.014, as 5.012-RC0 is born
         * add docs on how to get the latest version of this distro
