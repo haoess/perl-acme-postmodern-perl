@@ -1,4 +1,4 @@
-use 5.018;
+use 5.020;
 
 use strict;
 use warnings;
@@ -18,5 +18,5 @@ WriteMakefile(
     },
     dist                => { COMPRESS => 'gzip -9f', SUFFIX => 'gz', },
     clean               => { FILES => 'Acme-Postmodern-Perl-*' },
-    MIN_PERL_VERSION    => 5.018,
+    MIN_PERL_VERSION    => 5.020,
 );
