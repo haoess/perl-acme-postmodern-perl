@@ -1,5 +1,8 @@
 Revision history for Acme-Postmodern-Perl
 
+0.09    2014-05-27
+        * require 5.022
+
 0.08    2012-05-22
         * require 5.020
 

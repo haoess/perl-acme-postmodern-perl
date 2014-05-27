@@ -1,4 +1,4 @@
-package Acme::Postmodern::Perl 0.08;
+package Acme::Postmodern::Perl 0.09;
 
 use warnings;
 use strict;
@@ -9,7 +9,7 @@ Acme::Postmodern::Perl - Postmodern Perl solves all problems
 
 =head1 VERSION
 
-Version 0.08
+Version 0.09
 
 =head1 SYNOPSIS
 
@@ -26,7 +26,7 @@ directly from your nearby CPAN mirror.
 
 =cut
 
-use 5.020;
+use 5.022;
 
 -1;
 __END__
@@ -75,7 +75,7 @@ L<Acme::Very::Modern::Perl>.
 
 =head1 COPYRIGHT & LICENSE
 
-Copyright 2009, 2010, 2011, 2012, 2013 Frank Wiegand L<mailto:fwie@cpan.org>.
+Copyright 2009, 2010, 2011, 2012, 2013, 2014 Frank Wiegand L<mailto:fwie@cpan.org>.
 
 This program is free software; you can redistribute it and/or modify it
 under the terms of either: the GNU General Public License as published
